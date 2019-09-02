@@ -45,4 +45,3 @@ const PLAID_PUBLIC_KEY = "YOUR_PUBLIC_KEY";
                 Link Account
               </PlaidLinkButton>
 ```
->>>>>>> Demo Push
