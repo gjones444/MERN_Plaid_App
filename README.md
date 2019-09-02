@@ -1,7 +1,4 @@
 # MERN_Plaid_App
-<<<<<<< HEAD
-Full-stack banking web app built with Plaid's API and the MERN stack.
-=======
 
 Full-stack banking web app built with Plaid's API and the MERN stack.
 
